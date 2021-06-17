@@ -1,4 +1,4 @@
-//Characteres for the ASCII Codes
+//Characters for the ASCII Codes
 #include <iostream>
 
 int main()
